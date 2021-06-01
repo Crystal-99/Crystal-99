@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiRahul05
 - 👀 I’m interested in CC
-- 🌱 I’m currently learning android development
+
 - 📫 How to reach me : rahulvenkatasai@gmail.com
 
 <!---
