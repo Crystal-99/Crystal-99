@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @SaiRahul05
+- 👋 Hi, I’m Sai Rahul
 - 👀 I’m interested in CC
+- Currently learning Web developement
+- Im an intermediate skilled c++ coder.
 
 - 📫 How to reach me : rahulvenkatasai@gmail.com
 
-<!---
-SaiRahul05/SaiRahul05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
