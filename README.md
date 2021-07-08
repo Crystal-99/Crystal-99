@@ -1,7 +1,7 @@
 <h1 align="center">Hello there,this is Sai Rahul</h1>
 - 🌱 I’m currently learning **Web developement.**
 
-- 📫 Reach me out: **rahulvenkatasai@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
